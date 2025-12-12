@@ -1,0 +1,4 @@
+[core]
+    remote = myssh
+['remote "myssh"']
+    url = ssh://root@166.1.155.203/home/karl/dvc-storage/titanic-data
