@@ -1,4 +1,6 @@
 [core]
-    remote = local_storage
+    remote = myremote
 ['remote "local_storage"']
     url = ../dvc_local_data
+['remote "myremote"']
+    url = https://github.com/karlcecilio/titanic-dvc-data.git
