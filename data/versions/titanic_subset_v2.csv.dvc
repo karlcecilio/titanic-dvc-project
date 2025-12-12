@@ -1,0 +1,5 @@
+outs:
+- md5: afee2f545526fdf245222a88d8a6a984
+  size: 7865
+  hash: md5
+  path: titanic_subset_v2.csv
